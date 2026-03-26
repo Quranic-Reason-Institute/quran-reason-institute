@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://quranic-reason-institute.github.io/quran-reason-institute/sitemap.xml
